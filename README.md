@@ -1,38 +1,42 @@
 # Hi 👋, I'm Abhishek Pandey
 
-## DevOps Engineer | Cloud & Automation Enthusiast
+## Integration Engineer | API & SFTP Integrations | DevOps Enthusiast
 
 ### 🚀 About Me
 
-* Working on API Integrations and Enterprise Applications
-* Learning DevOps and Cloud Technologies
-* Passionate about Automation and Infrastructure as Code
-* Currently focusing on AWS, Docker, Kubernetes, Jenkins, and Terraform
+* Working as an Integration Engineer with experience in enterprise application integrations.
+* Expertise in API integrations, SFTP-based file transfers, data synchronization, and troubleshooting.
+* Experience working with HRMS, ATS, BGV, Payroll, and third-party integrations.
+* Currently expanding my skills in AWS, Docker, Jenkins, Kubernetes, and Terraform.
 
 ### 🛠️ Technical Skills
 
-#### DevOps
+#### Integration Technologies
+
+* REST APIs
+* Webhooks
+* SFTP
+* Data Migration
+* SQL
+* JSON/XML
+* Troubleshooting & Production Support
+
+#### DevOps & Cloud
 
 * Git & GitHub
 * Linux
 * Docker
 * Jenkins
-* Kubernetes
-* Terraform
+* AWS (EC2, VPC, S3, IAM)
+* Kubernetes (Learning)
+* Terraform (Learning)
 
-#### Cloud
+#### Database
 
-* AWS EC2
-* AWS VPC
-* AWS S3
-* AWS IAM
-
-#### Development & Database
-
-* Python
-* SQL
-* REST APIs
-* SFTP Integrations
+* SQL Server
+* MySQL
+* Stored Procedures
+* Query Optimization
 
 ### 📊 GitHub Stats
 
@@ -44,33 +48,32 @@
 
 ### 🚀 Featured Projects
 
-#### Dockerized Web Application
+#### API Integration Framework
 
-Containerized web application using Docker and Docker Compose.
+Designed and supported API integrations between enterprise applications and third-party systems.
 
-#### Jenkins CI/CD Pipeline
+#### SFTP Automation
 
-Automated build, test, and deployment pipeline using Jenkins.
+Implemented automated file-based integrations using SFTP for employee and payroll data exchange.
 
-#### Kubernetes Microservices Deployment
+#### SQL Automation & Data Processing
 
-Microservices deployment with Kubernetes Deployments, Services, and Ingress.
+Developed SQL scripts and stored procedures for data validation, transformation, and reconciliation.
 
-#### AWS Infrastructure with Terraform
+#### DevOps Learning Projects
 
-Provisioned AWS resources using Infrastructure as Code.
+* Dockerized Web Application
+* Jenkins CI/CD Pipeline
+* AWS Infrastructure with Terraform
 
-#### End-to-End DevOps Project on AWS EKS
+### 🎯 Current Focus
 
-Complete CI/CD workflow using Jenkins, Docker, Terraform, AWS EKS, and Kubernetes.
-
-### 🎯 Current Learning Path
-
-* AWS Solutions Architect Associate
-* Docker & Kubernetes
-* Terraform
+* AWS Cloud
+* Docker
 * Jenkins CI/CD
-* Python for DevOps
+* Kubernetes
+* Terraform
+* Python Automation
 
 ### 📫 Connect With Me
 
